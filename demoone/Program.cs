@@ -11,6 +11,7 @@ namespace demoone
         static void Main(string[] args)
         {
             Console.WriteLine("hi lee");
+            Console.WriteLine("yes iam");
         }
     }
 }
