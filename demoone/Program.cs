@@ -12,6 +12,7 @@ namespace demoone
         {
             Console.WriteLine("hi lee");
             Console.WriteLine("yes iam");
+            Console.WriteLine("where are you");
         }
     }
 }
